@@ -1,16 +1,16 @@
-# Izu-proj3-solver
+# Izu-prj3-solver
 Solver for project 3 for IZU 23/24
 
 <span style="color:red">This script is not verified to be the final answer, so use carefully.</span>
 
 # Usage:
 
-Add the script `izu-proj3-solver.py` to the unzipped folder that has the file `model-xlogin00.txt` in it. \
+Add the script `izu-prj3-solver.py` to the unzipped folder that has the file `model-xlogin00.txt` in it. \
 Then, replace the value of the variable `login` from "xlogin00" to your login.
 
 # Run
 ```bash
-python3 izu-proj3-solver.py
+python3 izu-prj3-solver.py
 ```
 
 # Output
